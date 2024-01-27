@@ -1,7 +1,7 @@
 # Puzzle Game
 ## Demo
 
-You can try out the demo in this link 🔗[Puzzle-game-demo](puzzle-game-santhosh.netlify.app).
+You can try out the demo in this link 🔗[Puzzle-game-demo](https://puzzle-game-santhosh.netlify.app/).
 
 ## Overview
 
